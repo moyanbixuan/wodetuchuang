@@ -1,2 +1,2 @@
-# wodetuchuang
+# wodetuchuang/image-bed
 ziyong
